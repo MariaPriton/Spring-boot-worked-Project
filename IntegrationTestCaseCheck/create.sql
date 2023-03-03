@@ -1,0 +1,10 @@
+create sequence userdetail_seq start with 1 increment by 1;
+create table userdetail (id integer not null, address varchar(255), age integer, name varchar(255), primary key (id));
+create sequence userdetail_seq start with 1 increment by 1;
+create table userdetail (id integer not null, address varchar(255), age integer, name varchar(255), primary key (id));
+create sequence userdetail_seq start with 1 increment by 1;
+create table userdetail (id integer not null, address varchar(255), age integer, name varchar(255), primary key (id));
+create sequence userdetail_seq start with 1 increment by 1;
+create table userdetail (id integer not null, address varchar(255), age integer, name varchar(255), primary key (id));
+create sequence userdetail_seq start with 1 increment by 1;
+create table userdetail (id integer not null, address varchar(255), age integer, name varchar(255), primary key (id));
